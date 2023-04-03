@@ -69,4 +69,13 @@
         grid-template-columns: 1fr;
         gap: 32px;
     }
+
+    /* =====Footer===== */
+    #footer span {
+        display: none;
+    }
+
+    #footer i {
+        font-size: 38px;
+    }
 }
